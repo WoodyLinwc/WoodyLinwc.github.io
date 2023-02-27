@@ -256,7 +256,7 @@ h1,h2,h3,h4,h5,h6,p{
 }
 
 
-/*====================== Back to buttom ==================*/
+/*====================== Back to bottom ==================*/
 
 .scroll-to-bottom {
   position: fixed;
@@ -296,4 +296,17 @@ h1,h2,h3,h4,h5,h6,p{
   100% {
     transform: translateY(-15px);
   }
+}
+
+
+/*====================== Iframe Section ==================*/
+#my-iframe-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#my-iframe {
+  width: 80%;
+  height: 500px;
 }
