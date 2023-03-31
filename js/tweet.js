@@ -146,12 +146,32 @@ const tweets = [
     '<blockquote class="twitter-tweet"><p lang="zh" dir="ltr">[闹钟指着旁边的手表]：呐，这是我表姐。</p>&mdash; 住在山下的山顶洞人 (@Linwo_OCh) <a href="https://twitter.com/Linwo_OCh/status/930967664729739264?ref_src=twsrc%5Etfw">November 16, 2017</a></blockquote>',
     '<blockquote class="twitter-tweet"><p lang="zh" dir="ltr">[如何判断失眠]：关灯前去了一趟厕所，睡着前又去了一趟。</p>&mdash; 住在山下的山顶洞人 (@Linwo_OCh) <a href="https://twitter.com/Linwo_OCh/status/1614786219161829376?ref_src=twsrc%5Etfw">January 16, 2023</a></blockquote>'
 ];
+  const buttonLabels = [
+    '不够看！',
+    '不够看！',
+    '看看下一个',
+    '还有吗？',
+    '看点其他的',
+    '太少啦~',
+    '灵感爆发中...',
+    '多整点！',
+    '多整点！',
+    '可以可以',
+    '信我，下一个更好',
+    '整挺好~',
+    '还不错吼',
+    '继续发点！'
+  ];
 
   function generateRandomTweet() {
     const tweetContainer = document.getElementById('tweet-container');
     const randomIndex = Math.floor(Math.random() * tweets.length);
     tweetContainer.innerHTML = tweets[randomIndex];
     twttr.widgets.load();
+
+    const generateButton = document.getElementById('generate-button');
+    const randomLabelIndex = Math.floor(Math.random() * buttonLabels.length);
+    generateButton.innerHTML = buttonLabels[randomLabelIndex];
   }
   generateRandomTweet(); // generate a random tweet on page load
 
