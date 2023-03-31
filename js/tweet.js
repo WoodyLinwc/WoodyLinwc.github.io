@@ -5,6 +5,14 @@ const tweets = [
     '<blockquote class="twitter-tweet"><p lang="zh" dir="ltr">[如何判断失眠]：关灯前去了一趟厕所，睡着前又去了一趟。</p>&mdash; 住在山下的山顶洞人 (@Linwo_OCh) <a href="https://twitter.com/Linwo_OCh/status/1614786219161829376?ref_src=twsrc%5Etfw">January 16, 2023</a></blockquote>'
   ];
 
+//   function generateRandomTweet() {
+//     const tweetContainer = document.getElementById('tweet-container');
+//     const randomIndex = Math.floor(Math.random() * tweets.length);
+//     tweetContainer.innerHTML = tweets[randomIndex];
+//     twttr.widgets.load();
+//   }
+//   generateRandomTweet(); // generate a random tweet on page load
+
 let currentTweetIndex = -1;
 
 function generateRandomTweet() {
