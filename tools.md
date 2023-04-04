@@ -1,6 +1,6 @@
 ---
 title: tools
-layout: default
+layout: sub
 ---
 
 <!-- Header Start -->

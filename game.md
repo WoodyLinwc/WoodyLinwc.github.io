@@ -1,6 +1,6 @@
 ---
 title: game
-layout: default
+layout: sub
 ---
 
 <!-- Header Start -->

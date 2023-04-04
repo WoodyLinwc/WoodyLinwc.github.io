@@ -1,6 +1,6 @@
 ---
 title: blog
-layout: default
+layout: sub
 ---
 
 <!-- Header Start -->

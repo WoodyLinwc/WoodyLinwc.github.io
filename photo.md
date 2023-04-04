@@ -1,6 +1,6 @@
 ---
 title: photo
-layout: default
+layout: sub
 ---
 
 <!-- Header Start -->

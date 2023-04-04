@@ -1,6 +1,6 @@
 ---
 title: moyu
-layout: default
+layout: sub
 ---
 
 <!-- Header Start -->
