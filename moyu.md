@@ -13,6 +13,3 @@ layout: sub
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script src="js/tweet.js"></script>
 <!-- Twitter Start-->
-    
-
-   
