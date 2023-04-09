@@ -41,4 +41,5 @@ layout: sub
 
 
 <img class="img-fluid rounded w-100" src="img/album/comparision-min.jpg" alt="">
+<img class="img-fluid rounded w-100" src="img/redpanda/red1-min.jpg" alt="">
 
