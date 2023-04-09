@@ -89,9 +89,9 @@ layout: sub
             </div>
             <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                 <div class="position-relative overflow-hidden mb-2">
-                    <img class="img-fluid rounded w-100" src="img/album/cannon-min.JPG" alt="">
+                    <img class="img-fluid rounded w-100" src="img/album/train-min.JPG" alt="">
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                        <a href="img/album/cannon-min.JPG" data-lightbox="portfolio">
+                        <a href="img/album/train-min.JPG" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                         </a>
                     </div>
@@ -177,11 +177,11 @@ layout: sub
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item fifth">
                 <div class="position-relative overflow-hidden mb-2">
-                    <img class="img-fluid rounded w-100" src="img/album/fishing-min.PNG" alt="">
+                    <img class="img-fluid rounded w-100" src="img/album/selling-min.JPG" alt="">
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                        <a href="img/album/fishing-min.PNG" data-lightbox="portfolio">
+                        <a href="img/album/selling-min.JPG" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                         </a>
                     </div>
@@ -237,11 +237,11 @@ layout: sub
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item fifth">
                 <div class="position-relative overflow-hidden mb-2">
-                    <img class="img-fluid rounded w-100" src="img/album/luggage-min.JPG" alt="">
+                    <img class="img-fluid rounded w-100" src="img/album/maid-min.JPG" alt="">
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                        <a href="img/album/luggage-min.JPG" data-lightbox="portfolio">
+                        <a href="img/album/maid-min.JPG" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                         </a>
                     </div>
@@ -299,9 +299,9 @@ layout: sub
             </div>
             <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                 <div class="position-relative overflow-hidden mb-2">
-                    <img class="img-fluid rounded w-100" src="img/album/straberrypicking-min.JPG" alt="">
+                    <img class="img-fluid rounded w-100" src="img/album/cannon-min.JPG" alt="">
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                        <a href="img/album/straberrypicking-min.JPG" data-lightbox="portfolio">
+                        <a href="img/album/cannon-min.JPG" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                         </a>
                     </div>
@@ -327,10 +327,41 @@ layout: sub
                     </div>
                 </div>
             </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item fifth">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/wheel-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/wheel-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/luggage-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/luggage-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/fishing-min.PNG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/fishing-min.PNG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
             <!-- More Photos -->
         </div>
     </div>
 </div>
+
 <!-- Portfolio End -->
 
 <!-- Portfolio Start -->
