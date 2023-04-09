@@ -34,7 +34,7 @@ layout: sub
         </div>
     </div>
 </div>
-<div id="image-container"><img id="random-image" src="img/redpanda/red1-min.JPG" class="img-scale-down" onclick="generateRandomImage()"></div><br/>
+<div id="image-container"><img id="random-image" src="" class="img-scale-down" onclick="generateRandomImage()"></div><br/>
 <button id="generate-button" onclick="generateRandomImage()" class="btn btn-outline-primary nav-item">点击图片来看更多！</button>
 <script src="js/meme.js"></script>
 <!-- Redpanda End-->
