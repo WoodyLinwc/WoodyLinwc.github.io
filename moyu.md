@@ -32,7 +32,6 @@ layout: sub
 <br/>
 <!-- Twitter End-->
 
-
 <!-- Redpanda Start-->
 <div class="container-fluid py-5" id="testimonial">
     <div class="container">
