@@ -7,6 +7,13 @@ layout: sub
 <div class="container-fluid bg-primary d-flex align-items-center mb-5 py-5" id="home" style="min-height: 25vh;"></div>
 <!-- Header End -->
 
+<!-- Weather Start-->
+<a class="weatherwidget-io" href="https://forecast7.com/en/42d36n71d06/boston/" data-label_1="BOSTON" data-label_2="WEATHER" data-theme="bright" >BOSTON WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
+<!-- Weather End-->
+
 <!-- Testimonial Start -->
 <div class="container-fluid py-5" id="testimonial">
     <div class="container">
