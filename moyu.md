@@ -35,7 +35,7 @@ layout: sub
     </div>
 </div>
 <div id="image-container"><img id="random-image" src="" class="img-scale-down" onclick="generateRandomImage()"></div><br/>
-<button id="generate-button" onclick="generateRandomImage()" class="btn btn-outline-primary nav-item">点击图片来看更多！</button>
+<button id="generate-button" onclick="generateRandomImage()" class="btn btn-outline-primary nav-item">点击图片来看更多，可以直接拿图！</button>
 <script src="js/meme.js"></script>
 <!-- Redpanda End-->
 
