@@ -38,3 +38,7 @@ layout: sub
 <button id="generate-button" onclick="generateRandomImage()" class="btn btn-outline-primary nav-item">点击图片来看更多！</button>
 <script src="js/meme.js"></script>
 <!-- Redpanda End-->
+
+
+<img class="img-fluid rounded w-100" src="img/album/comparision-min.jpg" alt="">
+
