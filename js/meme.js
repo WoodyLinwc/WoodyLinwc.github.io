@@ -6,7 +6,8 @@ function generateRandomImage() {
     const imageUrl = '{{ site.baseurl }}/img/redpanda/red' + randomIndex + '-min.jpg';
     const randomImage = document.getElementById('random-image');
     randomImage.src = imageUrl;
+    console.log(imageUrl);
   }
-  generateRandomImage();
+//   generateRandomImage();
   
 
