@@ -163,6 +163,8 @@ const tweets = [
     '继续发点！'
   ];
 
+  // https://compressjpeg.com/
+  
   function generateRandomTweet() {
     const tweetContainer = document.getElementById('tweet-container');
     const randomIndex = Math.floor(Math.random() * tweets.length);

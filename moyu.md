@@ -22,4 +22,18 @@ layout: sub
 <button id="generate-button" onclick="generateRandomTweet()" class="btn btn-outline-primary nav-item">看看下一个</button>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script src="js/tweet.js"></script>
+<br/>
 <!-- Twitter Start-->
+
+
+
+<div class="container-fluid py-5" id="testimonial">
+    <div class="container">
+        <div class="position-relative d-flex align-items-center justify-content-center">
+            <h1 class="position-absolute text-uppercase text-primary">不如看点小熊猫</h1>
+        </div>
+    </div>
+</div>
+<div id="image-container"><img id="random-image" src="" class="img-scale-down" onclick="generateRandomImage()"></div><br/>
+<button id="generate-button" onclick="generateRandomImage()" class="btn btn-outline-primary nav-item">点击图片来看更多！</button>
+<script src="js/meme.js"></script>

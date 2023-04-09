@@ -330,3 +330,17 @@ h1,h2,h3,h4,h5,h6,p{
   display: block;
   margin: 0 auto;
 }
+
+/*====================== Redpanda Section ==================*/
+#image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-scale-down {
+  width: 30%;
+  height: 30%;
+  object-fit: scale-down;
+  overflow: hidden;
+}
