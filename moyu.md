@@ -23,10 +23,10 @@ layout: sub
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script src="js/tweet.js"></script>
 <br/>
-<!-- Twitter Start-->
+<!-- Twitter End-->
 
 
-
+<!-- Redpanda Start-->
 <div class="container-fluid py-5" id="testimonial">
     <div class="container">
         <div class="position-relative d-flex align-items-center justify-content-center">
@@ -37,3 +37,4 @@ layout: sub
 <div id="image-container"><img id="random-image" src="" class="img-scale-down" onclick="generateRandomImage()"></div><br/>
 <button id="generate-button" onclick="generateRandomImage()" class="btn btn-outline-primary nav-item">点击图片来看更多！</button>
 <script src="js/meme.js"></script>
+<!-- Redpanda End-->
