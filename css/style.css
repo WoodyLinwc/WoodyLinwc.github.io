@@ -339,8 +339,8 @@ h1,h2,h3,h4,h5,h6,p{
 }
 
 .img-scale-down {
-  width: 30%;
-  height: 30%;
+  width: 40%;
+  height: 40%;
   object-fit: scale-down;
   overflow: hidden;
 }
