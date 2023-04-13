@@ -344,3 +344,14 @@ h1,h2,h3,h4,h5,h6,p{
   object-fit: scale-down;
   overflow: hidden;
 }
+
+/*====================== Rainfall Background Section ==================*/
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none; /* Add this line to disable pointer events on the canvas */
+}
