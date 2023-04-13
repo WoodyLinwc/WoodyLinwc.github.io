@@ -51,8 +51,6 @@ layout: sub
 <script src="js/rain.js"></script>
 <!-- Rain End-->
 
-asjdljhnjksndkcankcnnjandjcnajncdcnocoiwqjoixjqwi
-
 <!-- Chat Start-->
 <div id="disqus_thread"></div>
 <script>
