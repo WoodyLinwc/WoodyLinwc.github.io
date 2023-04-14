@@ -11,6 +11,6 @@
 9. compressed all image files with https://compressjpeg.com/
 
 find all my icon here in https://fontawesome.com/search
-
+color https://www.colorhexa.com/d6e7f5
 
 Credit: https://www.youtube.com/playlist?list=PLPxLupE_uLC0PwJywgv3SXurdAzbtF6RC
