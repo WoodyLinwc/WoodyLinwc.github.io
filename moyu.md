@@ -66,11 +66,11 @@ layout: sub
   var hour = now.getHours();
   if (hour >= 3 && hour <= 15) {
     // Display wind effects
-    document.getElementById("rain-container").style.display = "block";
+    document.getElementById("wind-container").style.display = "block";
     initWind();
   } else {
     // Hide wind effects
-    document.getElementById("rain-container").style.display = "none";
+    document.getElementById("wind-container").style.display = "none";
     // Display rain effects
     initRain();
   }
