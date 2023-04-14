@@ -1,9 +1,9 @@
-function init() {
+function initRain() {
     var scene = new THREE.Scene();
     var camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
     camera.position.z = 5;
   
-    var renderer = new THREE.WebGLRenderer({ canvas: document.getElementById("canvas"), antialias: true, alpha: true });
+    var renderer = new THREE.WebGLRenderer({ canvas: document.getElementById("rain-canvas"), antialias: true, alpha: true });
     renderer.setClearColor(0x000000, 0);
     renderer.setSize(window.innerWidth, window.innerHeight);
   
@@ -44,6 +44,6 @@ function init() {
   }
   
   window.onload = function() {
-    init();
+    initRain();
   }
   

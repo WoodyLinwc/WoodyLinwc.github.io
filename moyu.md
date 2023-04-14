@@ -7,12 +7,14 @@ layout: sub
 <div class="container-fluid bg-primary d-flex align-items-center mb-5 py-5" id="home" style="min-height: 25vh;"></div>
 <!-- Header End -->
 
+
 <!-- Weather Start-->
 <a class="weatherwidget-io" href="https://forecast7.com/zh/42d36n71d06/boston/" data-label_1="BOSTON" data-label_2="WEATHER" data-font="微软雅黑 (Microsoft Yahei)" data-theme="bright">BOSTON WEATHER</a>
 <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
 <!-- Weather End-->
+
 
 <!-- Testimonial Start -->
 <div class="container-fluid py-5" id="testimonial">
@@ -24,6 +26,7 @@ layout: sub
 </div>
 <!-- Testimonial End -->
 
+
 <!-- Twitter Start-->
 <div id="tweet-container"></div>
 <button id="generate-button" onclick="generateRandomTweet()" class="btn btn-outline-primary nav-item">看看下一个</button>
@@ -31,6 +34,7 @@ layout: sub
 <script src="js/tweet.js"></script>
 <br/>
 <!-- Twitter End-->
+
 
 <!-- Redpanda Start-->
 <div class="container-fluid py-5" id="testimonial">
@@ -41,15 +45,38 @@ layout: sub
     </div>
 </div>
 <div id="image-container"><img id="random-image" src="" class="img-scale-down" onclick="generateRandomImage()"></div><br/>
-<button id="generate-button" onclick="generateRandomImage()" class="btn btn-outline-primary nav-item">点击图片来看更多，长按直接拿图！</button>
+<button id="generate-button" onclick="generateRandomImage()" class="btn btn-outline-primary nav-item">点击图片来看更多，电脑右键打开，手机长按直接拿图！</button>
 <script src="js/meme.js"></script>
 <!-- Redpanda End-->
 
-<!-- Rain Start-->
-<canvas id="canvas"></canvas>
+
+<!-- Rain/Wind Start-->
+<div id="rain-container">
+  <canvas id="rain-canvas"></canvas>
+</div>
+<div id="wind-container">
+  <canvas id="wind-canvas"></canvas>
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
 <script src="js/rain.js"></script>
-<!-- Rain End-->
+<script src="js/wind.js"></script>
+<script>
+  var now = new Date();
+  var hour = now.getHours();
+  if (hour >= 3 && hour <= 15) {
+    // Display wind effects
+    document.getElementById("rain-container").style.display = "block";
+    initWind();
+  } else {
+    // Hide wind effects
+    document.getElementById("rain-container").style.display = "none";
+    // Display rain effects
+    initRain();
+  }
+</script>
+<!-- Rain/Wind End-->
+
 
 <!-- Chat Start-->
 <div id="disqus_thread"></div>
