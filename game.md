@@ -68,7 +68,7 @@ layout: sub
         <iframe id="my-iframe" src="https://woodylinwc.github.io/TheAviator"></iframe>
     </body>
 </div>
-<div class="text-center">Credit: Yakudoo</div>
+<div class="text-center">Credit: <a href="https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/" target="_blank">Karim Maaloul</a></div>
 <br />
 <br />
 <!-- iframe Start-->
