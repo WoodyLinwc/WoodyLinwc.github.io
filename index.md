@@ -174,7 +174,7 @@ layout: default
                         <h5 class="font-weight-bold mb-1">LE-V-EL</h5>
                         <p class="mb-2"><strong>CS410 Software Engineering</strong> | <small>Feb 2023 - Present</small></p>
                         <p>
-                            <a href="https://github.com/WoodyLinwc/CS410" target="_blank">LE-V-EL: Visualization Benchmarks for Machines</a>
+                            <a href="https://woodylinwc.github.io/LEVEL/index.html" target="_blank">LE-V-EL: Visualization Benchmarks for Machines</a>
                             <br />
                             ■ Provided a platform that allows researchers to test their machine graphical perception algorithms on benchmark datasets.
                             <br />
@@ -255,7 +255,7 @@ layout: default
                         <h5 class="font-weight-bold mb-1">CS Project Team Leader</h5>
                         <p class="mb-2"><strong>CS410 Software Engineering</strong> | <small>Feb 2023 - Present</small></p>
                         <p>
-                            <a href="https://github.com/WoodyLinwc/CS410" target="_blank">LE-V-EL: Visualization Benchmarks for Machines</a>
+                            <a href="https://github.com/WoodyLinwc/LEVEL" target="_blank">LE-V-EL: Visualization Benchmarks for Machines</a>
                             <br />
                             ■ Coordinated project planning, task allocation, and progress tracking using Agile methodologies.
                             <br />
