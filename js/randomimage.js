@@ -1,4 +1,4 @@
-let clientID = "V1HNjqZW9Tx3SSmPeK7ccbcRP1-wGFciZIJWHDVYhes";
+let clientID = ${{ secrets.UNSPLASH }};
 let endpoint = `https://api.unsplash.com/photos/random/?client_id=${clientID}`;
 
 let imageElement = document.querySelector("#unsplashImage");
