@@ -7,19 +7,19 @@ let creator = document.querySelector("#creator");
 
 // Function to fetch a new random image
 function fetchNewImage() {
-  fetch(endpoint)
+fetch(endpoint)
     .then(function (response) {
-      return response.json();
+    return response.json();
     })
     .then(function (jsonData) {
-      imageElement.src = jsonData.urls.regular;
-      // imageLink.setAttribute("href", jsonData.links.html);
-      creator.innerText = jsonData.user.name;
-      creator.setAttribute("target", "_blank"); // add target attribute to open in new tab
-      creator.setAttribute("href", jsonData.user.portfolio_url);
+    imageElement.src = jsonData.urls.regular;
+    // imageLink.setAttribute("href", jsonData.links.html);
+    creator.innerText = jsonData.user.name;
+    creator.setAttribute("target", "_blank"); // add target attribute to open in new tab
+    creator.setAttribute("href", jsonData.user.portfolio_url);
     })
     .catch(function (error) {
-      console.log("Error: " + error);
+    console.log("Error: " + error);
     });
 }
 
