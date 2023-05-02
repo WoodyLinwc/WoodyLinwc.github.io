@@ -355,3 +355,29 @@ canvas {
   height: 100%;
   pointer-events: none; /* Add this line to disable pointer events on the canvas */
 }
+
+/*======================  Image Generation Section ==================*/
+.imageDetails {
+  background-color: rgb(29, 105, 247);
+  margin-top: 50px;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  width: fit-content;
+  align-items: center;
+}
+
+.imageDetails a {
+  color: #FFF;
+}
+
+.imageDetails a:hover {
+  color: #FFF;
+}
+
+#unsplashImage {
+  max-height: 500px;
+  border: 20px solid #FFF;
+  transform: rotate(2deg);
+}
