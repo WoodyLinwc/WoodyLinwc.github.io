@@ -66,13 +66,13 @@ layout: default
                     <div class="col-sm-12 py-3"><h6>Technical Skills: <span class="text-secondary">
                         <br />■ Object-oriented programming
                         <br />■ Data Structures and Algorithms
+                        <br />■ GitHub Workflow
                         <br />■ Functional programming
                         <br />■ Scripting and Automation
                         <br />■ Data Management
                     </span></h6></div>
-                    <div class="col-sm-12 py-2"><h6>Languages: <span class="text-secondary">Java, SQL, C, Python, Racket, HTML, CSS, JavaScript</span></h6></div>
-                    <!-- <div class="col-sm-6 py-2"><h6>Freelance: <span class="text-secondary">Available</span></h6></div> -->
-                    
+                    <div class="col-sm-12 py-2"><h6>Languages: <span class="text-secondary">Java, SQL, Python, JavaScript, C, Racket, HTML, CSS</span></h6></div>
+                    <!-- <div class="col-sm-6 py-2"><h6>Freelance: <span class="text-secondary">Available</span></h6></div> -->   
                 </div>
                 <a href="mailto:wancheng.lin001@gmail.com" class="btn blue btn-outline-primary mr-4">Contact Me</a>
                 <a href="#project" class="btn btn-outline-primary nav-item">Learn More</a>
@@ -172,15 +172,15 @@ layout: default
                     <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -35px; font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">LE-V-EL</h5>
-                        <p class="mb-2"><strong>CS410 Software Engineering</strong> | <small>Feb 2023 - Present</small></p>
+                        <p class="mb-2"><strong>CS410 Software Engineering</strong> | <small>Feb 2023 - May 2023</small></p>
                         <p>
                             <a href="https://woodylinwc.github.io/LEVEL/" target="_blank">LE-V-EL: Visualization Benchmarks for Machines</a>
                             <br />
                             ■ Provided a platform that allows researchers to test their machine graphical perception algorithms on benchmark datasets.
                             <br />
-                            ■ Standardized datasets that cover the graphical perception tasks.
+                            ■ Evaluated the datasets remotely in the server once the pull request was accepted and updated the leaderboard on the website accordingly.
                             <br />
-                            ■ Submitted solutions for the challenge datasets and received a leaderboard ranking.
+                            ■ Standardized datasets that cover the graphical perception tasks.
                             <br />
                         </p>
                     </div>
@@ -261,6 +261,7 @@ layout: default
                             <br />
                             ■ Facilitated communication among team members and with stakeholders to ensure project requirements were met.
                             <br />
+                            ■ Presented the project in front of clients and received an A at the end of the semester.
                             <!-- ■ Successfully delivered [project outcomes, such as a functional software application, a research paper, or a hardware prototype] within [project timeline, such as a semester or academic year] -->
                             <br />
                         </p>
