@@ -50,6 +50,11 @@ layout: sub
 <br/>
 <!-- Redpanda End-->
 
+<!-- Countdown Start-->
+<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-z4y4" class="countdown-timer" data-style="circles" data-timezone="America/New_York" data-date="2023-09-04 23:00">开学倒计时！</a>
+<br/><br/>
+<!-- Countdown End-->
 
 <!-- <div class="container-fluid py-5" id="testimonial">
     <div class="container">
