@@ -50,6 +50,36 @@ layout: sub
 <br/>
 <!-- Redpanda End-->
 
+<!-- Spinning Wheel Start-->
+<div class="container-fluid py-5" id="testimonial">
+    <div class="container">
+        <div class="position-relative d-flex align-items-center justify-content-center">
+            <h1 class="position-absolute text-uppercase text-primary">看看今天运势吧</h1>
+        </div>
+    </div>
+</div>
+<div class="wheelbody">
+  <h1><center></center>
+	<div id="mainbox" class="mainbox">
+		<div id="box" class="box">
+			<div class="box1">
+				<span class="span1"><b>大吉</b></span>
+				<span class="span2"><b>小吉</b></span>
+				<span class="span3"><b>末吉</b></span>
+				<span class="span4"><b>半凶</b></span>
+			</div>
+			<div class="box2">
+				<span class="span1"><b>中吉</b></span>
+				<span class="span2"><b>吉</b></span>
+				<span class="span3"><b>凶</b></span>
+				<span class="span4"><b>大凶</b></span>
+			</div>
+		</div>
+		<button class="spin" onclick="myfunction()">转</button>
+	</div>
+  <script src="js/spinning.js"></script>
+<!-- Spinning Wheel End-->
+
 <!-- Countdown Start-->
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 <a href="https://logwork.com/countdown-z4y4" class="countdown-timer" data-style="circles" data-timezone="America/New_York" data-date="2023-09-04 23:00">开学倒计时！</a>
