@@ -189,7 +189,7 @@ layout: default
                     <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -35px;  font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">Twitter Bot</h5>
-                        <p class="mb-2"><strong>Extracurricular</strong> | <small>May 2023 - June 2023</small></p>
+                        <p class="mb-2"><strong>Extracurricular</strong> | <small>May 2023 - Jun 2023</small></p>
                         <p>
                             <a href="https://github.com/WoodyLinwc/Auto-Twitter-Bot" target="_blank">Automated Twitter Bot with Image Posting</a>
                             <br />
@@ -272,7 +272,7 @@ layout: default
                     <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">CS Project Team Leader</h5>
-                        <p class="mb-2"><strong>CS410 Software Engineering</strong> | <small>Feb 2023 - Present</small></p>
+                        <p class="mb-2"><strong>CS410 Software Engineering</strong> | <small>Feb 2023 - May 2023</small></p>
                         <p>
                             <a href="https://github.com/WoodyLinwc/LEVEL" target="_blank">LE-V-EL: Visualization Benchmarks for Machines</a>
                             <br />
