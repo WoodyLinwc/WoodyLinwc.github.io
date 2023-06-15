@@ -1,5 +1,7 @@
 # My-Persional-Website
 
+(My personal website)[https://woodylinwc.github.io/]
+
 1. A photo album section
 2. Chat section for improved my website (if not host via github)
 3. A Moyu section: Red panda meme, my twitter post, random interesting daily idea
