@@ -182,6 +182,25 @@ layout: default
                             <br />
                             ■ Standardized datasets that cover the graphical perception tasks.
                             <br />
+                            ■ Technologies used in the project: <b>Python</b>, <b>JavaScript</b>, <b>Miniconda</b>, <b>GitHub Workflow</b>, <b>Jekyll</b>.
+                            <br />
+                        </p>
+                    </div>
+                    <div class="position-relative ex-me mb-4">
+                        <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -35px;  font-size: 22px;"></i>
+                        <h5 class="font-weight-bold mb-1">Twitter Bot</h5>
+                        <p class="mb-2"><strong>Extracurricular</strong> | <small>May 2023 - June 2023</small></p>
+                        <p>
+                            <a href="https://github.com/WoodyLinwc/Auto-Twitter-Bot" target="_blank">Automated Twitter Bot with Image Posting</a>
+                            <br />
+                            ■ Developed an automated Twitter bot using the <b>Twitter API</b>, <b>Node.js</b>, <b>PM2</b>, and an <b>AWS EC2 instance</b>.
+                            <br />
+                            ■ Leveraged PM2 for process management, ensuring the bot runs continuously and automatically restarts in case of failures. 
+                            <br />
+                            ■ Utilized an AWS EC2 instance to host the bot, ensuring reliable and scalable deployment.
+                            <br />
+                            ■ Configured the bot to retrieve and upload images from a designated directory, providing a seamless posting experience.
+                            <br />
                         </p>
                     </div>
                     <div class="position-relative ex-me mb-4">
@@ -191,15 +210,15 @@ layout: default
                         <p>
                             <a href="https://github.com/WoodyLinwc/Metro-Girl" target="_blank">2D Hack and Slash Game</a>
                             <br />
-                            ■ Designed and implemented game mechanics, UI, and graphics for a 2D game using Gamemaker Studio 2.
+                            ■ Designed and implemented game mechanics, UI, and graphics for a 2D game using <b>Gamemaker Studio 2</b>.
                             <br />
-                            ■ Created original game characters and assets, using tools such as Procreate and Adobe Photoshop.
+                            ■ Created original game characters and assets, using tools such as <b>Procreate</b> and <b>Adobe Photoshop</b>.
                             <br />
                             ■ Debugged and tested the game, ensuring a smooth and enjoyable gamer experience.
                             <br />
                         </p>
                     </div>
-                    <div class="position-relative ex-me mb-4">
+                    <!-- <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -35px;  font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">Infection and Vaccination Research</h5>
                         <p class="mb-2"><strong>Math345 Probability and Statics</strong> | <small>Nov 2021 - Dec 2021</small></p>
@@ -213,7 +232,7 @@ layout: default
                             ■ Demonstrated strong communication, teamwork, and analytical skills, contributing to the project's success and earning recognition from team members and professor.
                             <br />
                         </p>
-                    </div>
+                    </div> -->
                     <!-- <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -35px;  font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">Web Game Project</h5>
