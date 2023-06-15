@@ -1,6 +1,6 @@
 # My-Persional-Website
 
-(My personal website)[https://woodylinwc.github.io/]
+[My personal website](https://woodylinwc.github.io/)
 
 1. A photo album section
 2. Chat section for improved my website (if not host via github)
