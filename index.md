@@ -174,7 +174,7 @@ layout: default
                         <h5 class="font-weight-bold mb-1">LE-V-EL</h5>
                         <p class="mb-2"><strong>CS410 Software Engineering</strong> | <small>Feb 2023 - May 2023</small></p>
                         <p>
-                            <a href="https://woodylinwc.github.io/LEVEL/" target="_blank">LE-V-EL: Visualization Benchmarks for Machines</a>
+                            <a href="https://github.com/WoodyLinwc/LEVEL" target="_blank">LE-V-EL: Visualization Benchmarks for Machines</a>
                             <br />
                             ■ Provided a platform that allows researchers to test their machine graphical perception algorithms on benchmark datasets.
                             <br />
@@ -218,7 +218,7 @@ layout: default
                             <br />
                         </p>
                     </div>
-                    <!-- <div class="position-relative ex-me mb-4">
+                    <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -35px;  font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">Infection and Vaccination Research</h5>
                         <p class="mb-2"><strong>Math345 Probability and Statics</strong> | <small>Nov 2021 - Dec 2021</small></p>
@@ -229,10 +229,10 @@ layout: default
                             <br />
                             ■ Conducted statistical analyses, creating visualizations and graphs to help illustrate trends and patterns in the data.
                             <br />
-                            ■ Demonstrated strong communication, teamwork, and analytical skills, contributing to the project's success and earning recognition from team members and professor.
+                            ■ Demonstrated strong communication, teamwork, and analytical skills, contributing to the project's success.
                             <br />
                         </p>
-                    </div> -->
+                    </div>
                     <!-- <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -35px;  font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">Web Game Project</h5>
@@ -279,6 +279,8 @@ layout: default
                             ■ Collaborated with a designer to lead a successful website redesign project for a small finance company, amplifying their value proposition and strategic goals.
                             <br />
                             ■ Leveraged user-centered design principles to optimize website navigation, resulting in enhanced user experience across various devices.
+                            <br />
+                            ■ Managed project timelines, adapting to changing requirements and consistently exceeding milestones.
                             <br />
                             ■ Integrated <b>Google Domains</b> to host the website.
                         </p>
