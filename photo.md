@@ -387,6 +387,66 @@ layout: sub
                     </div>
                 </div>
             </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/shadowcloud-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/shadowcloud-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item fourth">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/seagull-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/seagull-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item fifth">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/blackrest-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/blackrest-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item fifth">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/tatoogirl-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/tatoogirl-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item fifth">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/jojo-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/jojo-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item fifth">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/kiss-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/kiss-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
             <!-- More Photos -->
         </div>
     </div>
