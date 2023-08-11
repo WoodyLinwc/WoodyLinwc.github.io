@@ -225,7 +225,7 @@ layout: default
                         <p>
                             <a href="https://docs.google.com/presentation/d/1QqUrtbTbH3y6LtyzGSO62aRg3ay6X3ybxS4nmf7yeMw/edit?usp=sharing" target="_blank">Final Project</a>
                             <br />
-                            ■ Conducted research on COVID-19 infection and vaccination rates, utilizing data analysis and visualization tools such as R and Excel.
+                            ■ Conducted research on COVID-19 infection and vaccination rates, utilizing data analysis and visualization tools such as <b>R</b> and Excel.
                             <br />
                             ■ Conducted statistical analyses, creating visualizations and graphs to help illustrate trends and patterns in the data.
                             <br />
