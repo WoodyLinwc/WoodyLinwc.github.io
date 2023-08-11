@@ -10,7 +10,7 @@ layout: default
                 <h3 class="text-white font-weight-normal mb-3">Hello, my name</h3>
                 <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 4px #ffffff;">Woody Lin</h1>
                 <h1 class="typed-text-output d-inline font-weight-lighter text-white"></h1>
-                <div class="typed-text d-none">College Student, Computer Science, Game Developer, Photographer, 林万程</div>
+                <div class="typed-text d-none">College Student, Computer Science, Game Developer, Web Designer, Photographer, 林万程</div>
                 <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
                     <a href="mailto:wancheng.lin001@gmail.com" class="btn btn-white mr-4">Email Me</a>                        
                     <a href="https://www.linkedin.com/in/woody-lin-32ab48161/" class="btn btn-blue d-none d-sm-block mr-2">LinkedIn</a>
@@ -256,7 +256,7 @@ layout: default
                     <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">Teaching Assistant</h5>
-                        <p class="mb-2"><strong>UMass Boston, CS Department</strong> | <small>Feb 2023 - Present</small></p>
+                        <p class="mb-2"><strong>UMass Boston, CS Department</strong> | <small>Feb 2023 - May 2023</small></p>
                         <p>
                             <a href="https://www.cs.umb.edu/~stchang/cs420/s23/info.html" target="_blank">CS420: Intro to Theory of Computation</a>
                             <br />
@@ -271,6 +271,20 @@ layout: default
                     </div>
                     <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
+                        <h5 class="font-weight-bold mb-1">Website Designer</h5>
+                        <p class="mb-2"><strong>Part-time job</strong> | <small>Jul 2023 - Aug 2023</small></p>
+                        <p>
+                            <a href="https://www.wfgfinances.com/" target="_blank">A Start-up Company: WFG Finances</a>
+                            <br />
+                            ■ Collaborated with a designer to lead a successful website redesign project for a small finance company, amplifying their value proposition and strategic goals.
+                            <br />
+                            ■ Leveraged user-centered design principles to optimize website navigation, resulting in enhanced user experience across various devices.
+                            <br />
+                            ■ Integrated <b>Google Domains</b> to host the website.
+                        </p>
+                    </div>
+                    <div class="position-relative ex-me mb-4">
+                        <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">CS Project Team Leader</h5>
                         <p class="mb-2"><strong>CS410 Software Engineering</strong> | <small>Feb 2023 - May 2023</small></p>
                         <p>
@@ -281,7 +295,6 @@ layout: default
                             ■ Facilitated communication among team members and with stakeholders to ensure project requirements were met.
                             <br />
                             ■ Presented the project in front of clients and received an A at the end of the semester.
-                            <!-- ■ Successfully delivered [project outcomes, such as a functional software application, a research paper, or a hardware prototype] within [project timeline, such as a semester or academic year] -->
                             <br />
                         </p>
                     </div>
