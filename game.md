@@ -48,11 +48,11 @@ layout: sub
                     <div class="text-center">
                         <i class="fa fa-3x fa-quote-left text-primary mb-4"></i>
                         <h4 class="font-weight-light mb-4">
-                            🧩The objective is to slide numbered tiles around the board to combine them and create a tile with the number 2048.🏅
+                            🛫The objective is to fly as far as possible and stay away from the rock.🏅
                         </h4>
-                        <img class="img-fluid rounded-circle mx-auto mb-3" src="img/testimonial-3.jpg" style="width: 80px; height: 80px;">
-                        <a class="font-weight-bold m-0" href="https://woodylinwc.github.io/Snake" target="_blank"><h5 class="font-weight-bold m-0">-> 2048 <-</h5></a>
-                        <span>number puzzle game</span>
+                        <img class="img-fluid rounded-circle mx-auto mb-3" src="img/plane.png" style="width: 80px; height: 80px;">
+                        <a class="font-weight-bold m-0" href="https://woodylinwc.github.io/TheAviator" target="_blank"><h5 class="font-weight-bold m-0">-> The Aviator <-</h5></a>
+                        <span>dodge obstacles game</span>
                     </div>
                 </div>
             </div>
@@ -63,14 +63,14 @@ layout: sub
 
 
 <!-- iframe Start-->
-<div id="my-iframe-container">
+<!-- <div id="my-iframe-container">
     <body>
         <iframe id="my-iframe" src="https://woodylinwc.github.io/TheAviator"></iframe>
     </body>
 </div>
 <div class="text-center">Credit: <a href="https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/" target="_blank">Karim Maaloul</a></div>
 <br />
-<br />
+<br /> -->
 <!-- iframe Start-->
 
 
