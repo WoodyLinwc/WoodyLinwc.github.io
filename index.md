@@ -274,7 +274,7 @@ layout: default
                         <h5 class="font-weight-bold mb-1">Website Designer</h5>
                         <p class="mb-2"><strong>Part-time job</strong> | <small>Jul 2023 - Aug 2023</small></p>
                         <p>
-                            <a href="https://www.fe4f.com/" target="_blank">A Start-up Company: WFG Finances</a>
+                            <a href="https://www.fe4f.com/" target="_blank">A Start-up Company: Financial Education for Families</a>
                             <br />
                             ■ Collaborated with a designer to lead a successful website redesign project for a small finance company, amplifying their value proposition and strategic goals.
                             <br />
