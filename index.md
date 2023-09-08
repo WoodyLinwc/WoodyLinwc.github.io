@@ -59,6 +59,7 @@ layout: default
                         <br />■ CS410 Software Engineering
                         <br />■ CS430 Database Management 
                         <br />■ CS450 The Structure of Higher Level Languages
+                        <br />■ CS446 Introduction to Internetworking
                         <br />■ CS310 Data Structures and Algorithms
                         <br />■ CS420 An Introduction to the Theory of Computation
                         <br />■ CS444 Operating System
