@@ -101,9 +101,6 @@ layout: sub
 <p class="text-center">Photo by <a id="creator" href="#">NAME</a> on <a href="https://www.unsplash.com">Unsplash</a>!</p>
 <script src="js/randomimage.js"></script> -->
 
-
-
-
 <!-- iframe Start-->
 <!-- <div id="my-iframe-container">
     <body>
