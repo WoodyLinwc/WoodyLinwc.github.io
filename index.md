@@ -75,7 +75,8 @@ layout: default
                     <div class="col-sm-12 py-2"><h6>Languages: <span class="text-secondary">Java, SQL, Python, JavaScript, C, Racket, HTML, CSS</span></h6></div>
                     <!-- <div class="col-sm-6 py-2"><h6>Freelance: <span class="text-secondary">Available</span></h6></div> -->   
                 </div>
-                <a href="mailto:wancheng.lin001@gmail.com" class="btn blue btn-outline-primary mr-4">Contact Me</a>
+                <a href="https://woodylinwc.github.io/pdf/WoodyLinResume.pdf" class="btn btn-outline-primary nav-item">My Most Recent Resume</a>
+                <!-- <a href="mailto:wancheng.lin001@gmail.com" class="btn blue btn-outline-primary mr-4">Contact Me</a> -->
                 <a href="#project" class="btn btn-outline-primary nav-item">Learn More</a>
             </div>
         </div>
