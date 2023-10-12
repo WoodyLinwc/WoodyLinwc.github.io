@@ -258,9 +258,11 @@ layout: default
                     <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">Teaching Assistant</h5>
-                        <p class="mb-2"><strong>UMass Boston, CS Department</strong> | <small>Feb 2023 - May 2023</small></p>
+                        <p class="mb-2"><strong>UMass Boston, CS Department</strong> | <small>Feb 2023 - Dec 2023</small></p>
                         <p>
                             <a href="https://www.cs.umb.edu/~stchang/cs420/s23/info.html" target="_blank">CS420: Intro to Theory of Computation</a>
+                            <br />
+                            <a href="https://woodylinwc.github.io/pdf/CS310_Syllabus.pdf" target="_blank">CS310: Advanced Data Structures and Algorithms</a>
                             <br />
                             ■ Assisted professor in grading assignments and projects.
                             <br />
