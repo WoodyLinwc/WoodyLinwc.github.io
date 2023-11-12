@@ -447,6 +447,127 @@ layout: sub
                     </div>
                 </div>
             </div>
+            <!-- 11/11/2023 -->
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item fifth">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/makeup-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/makeup-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/beachkissing-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/beachkissing-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/beachlight-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/beachlight-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/lonelywalking-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/lonelywalking-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/lonelycrane-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/lonelycrane-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/captain-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/captain-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/distantcity-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/distantcity-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item fifth">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/viewing-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/viewing-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/darklight-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/darklight-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item fifth">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/doubleshadow-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/doubleshadow-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/icawindow-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/icawindow-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/album/icalight-min.JPG" alt="">
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/album/icalight-min.JPG" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
             <!-- More Photos -->
         </div>
     </div>
