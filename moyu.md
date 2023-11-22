@@ -138,6 +138,9 @@ layout: sub
 </script>
 <!-- Rain/Wind End-->
 
+<!-- Live2D Widget Start -->
+<script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
+<!-- Live2D Widget End -->
 
 <!-- Chat Start-->
 <div id="disqus_thread"></div>

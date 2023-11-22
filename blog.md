@@ -52,11 +52,6 @@ layout: sub
 <br />
 <!-- iframe Start-->
 
-
-
-
-
-
 <!-- Chat Start-->
 <div id="disqus_thread"></div>
 <script>
