@@ -30,11 +30,27 @@ layout: sub
         <iframe class="my-blog" src="https://WoodyLinwc.blogspot.com/"></iframe>
     </body>
 </div>
+<!-- iframe Start-->
+
+<!-- Testimonial Start -->
+<div class="container-fluid py-5" id="testimonial">
+    <div class="container">
+        <div class="position-relative d-flex align-items-center justify-content-center">
+            <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Flashcards</h1>
+            <h1 class="position-absolute text-uppercase text-primary">Temporary Notes</h1>
+    </div>
+</div>
+<!-- Testimonial End -->
+
+<!-- iframe Start-->
+<div class="my-blog-container">
+    <body>
+        <iframe class="my-blog" src="https://woodylinwc.github.io/Flashcards/"></iframe>
+    </body>
+</div>
 <br />
 <br />
 <!-- iframe Start-->
-
-
 
 
 
