@@ -11,7 +11,7 @@ layout: sub
 <div class="container-fluid py-5" id="testimonial">
     <div class="container">
         <div class="position-relative d-flex align-items-center justify-content-center">
-            <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Games & More</h1>
+            <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;font-size: 70px;">Games & More</h1>
             <h1 class="position-absolute text-uppercase text-primary">Let's Play!</h1>
         </div>
         <div class="row justify-content-center">

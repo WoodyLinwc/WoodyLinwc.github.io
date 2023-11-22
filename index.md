@@ -30,7 +30,7 @@ layout: default
 <div class="container-fluid py-5" id="about">
     <div class="container">
         <div class="position-relative d-flex align-items-center justify-content-center">
-            <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">About</h1>
+            <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;font-size: 100px;">About</h1>
             <h1 class="position-absolute text-uppercase text-primary">About Me</h1>
         </div>
         <div class="row align-items-center">
@@ -164,8 +164,8 @@ layout: default
 <div class="container-fluid py-5" id="project">
     <div class="container">
         <div class="position-relative d-flex align-items-center justify-content-center">
-            <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Quality</h1>
-            <h1 class="position-absolute text-uppercase text-primary">Projects & Expericence</h1>
+            <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;font-size: 100px;">Quality</h1>
+            <h1 class="position-absolute text-uppercase text-primary">My works</h1>
         </div>
         <div class="row align-items-center">
             <div class="col-lg-6">
@@ -474,7 +474,7 @@ layout: default
 <div class="container-fluid py-5" id="">
     <div class="container">
         <div class="position-relative d-flex align-items-center justify-content-center">
-            <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Location</h1>
+            <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;font-size: 100px;">Location</h1>
             <h1 class="position-absolute text-uppercase text-primary">Work Area</h1>
         </div >
         <div align = "center">

@@ -11,7 +11,7 @@ layout: sub
 <div class="container-fluid pt-5 pb-3" id="portfolio">
     <div class="container">
         <div class="position-relative d-flex align-items-center justify-content-center">
-            <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Gallery</h1>
+            <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;font-size: 100px;">Gallery</h1>
             <h1 class="position-absolute text-uppercase text-primary">Photo Album</h1>
         </div>
         <div class="row">

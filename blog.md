@@ -18,7 +18,7 @@ layout: sub
 <div class="container-fluid py-5" id="testimonial">
     <div class="container">
         <div class="position-relative d-flex align-items-center justify-content-center">
-            <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Article</h1>
+            <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;font-size: 100px;">Article</h1>
             <h1 class="position-absolute text-uppercase text-primary">Personal Blog</h1>
     </div>
 </div>
@@ -36,7 +36,7 @@ layout: sub
 <div class="container-fluid py-5" id="testimonial">
     <div class="container">
         <div class="position-relative d-flex align-items-center justify-content-center">
-            <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Flashcards</h1>
+            <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;font-size: 100px;">Flashcards</h1>
             <h1 class="position-absolute text-uppercase text-primary">Temporary Notes</h1>
     </div>
 </div>
