@@ -58,6 +58,7 @@ layout: sub
         </div>
     </div>
 </div>
+<!--
 <div class="wheelbody">
   <h1><center></center>
   <div id="mainbox" class="mainbox">
@@ -77,13 +78,18 @@ layout: sub
     </div>
     <button class="spin" onclick="myfunction()">转</button>
   </div>
-  <script src="js/spinning.js"></script>
+  <script src="js/spinning.js"></script> -->
+<div class="my-blog-container">
+    <body>
+        <iframe src="https://woodylinwc.github.io/Spinning-Wheel/" width="600" height="400" frameborder="0"></iframe>
+    </body>
+</div>
 <!-- Spinning Wheel End-->
 
 <!-- Countdown Start-->
-<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<!-- <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 <a href="https://logwork.com/countdown-z4y4" class="countdown-timer" data-style="circles" data-timezone="America/New_York" data-date="2023-09-04 23:00">开学倒计时！</a>
-<br/><br/>
+<br/><br/> -->
 <!-- Countdown End-->
 
 <!-- <div class="container-fluid py-5" id="testimonial">
@@ -143,23 +149,25 @@ layout: sub
 <!-- Live2D Widget End -->
 
 <!-- Chat Start-->
-<div id="disqus_thread"></div>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://moyu-section.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<div class="disqus">
+  <div id="disqus_thread"></div>
+  <script>
+      /**
+      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+      *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+      /*
+      var disqus_config = function () {
+      this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+      this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+      };
+      */
+      (function() { // DON'T EDIT BELOW THIS LINE
+      var d = document, s = d.createElement('script');
+      s.src = 'https://moyu-section.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
 <!-- Chat End-->
