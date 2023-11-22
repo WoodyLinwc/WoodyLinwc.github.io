@@ -164,7 +164,7 @@ layout: sub
 <!-- Rain/Wind End-->
 
 <!-- Live2D Widget Start -->
-<script src="https://cdn.jsdelivr.net/gh/WoodyLinwc/live2d-widget/autoload.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/WoodyLinwc/live2d-widget@latest/autoload.js"></script>
 <!-- Live2D Widget End -->
 
 <!-- Chat Start-->
