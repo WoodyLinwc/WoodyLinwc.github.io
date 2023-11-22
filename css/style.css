@@ -530,3 +530,11 @@ canvas {
   margin-left: 15vw; /* Adjust as needed */
   margin-right: 15vw; /* Adjust as needed */
 }
+
+/* Media query for smaller screens in portrait orientation */
+@media (max-width: 768px) and (orientation: portrait) {
+  .disqus {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+}
