@@ -60,23 +60,23 @@ layout: sub
 </div>
 <div class="wheelbody">
   <h1><center></center>
-	<div id="mainbox" class="mainbox">
-		<div id="box" class="box">
-			<div class="box1">
-				<span class="span1"><b>大吉</b></span>
-				<span class="span2"><b>小吉</b></span>
-				<span class="span3"><b>末吉</b></span>
-				<span class="span4"><b>半凶</b></span>
-			</div>
-			<div class="box2">
-				<span class="span1"><b>中吉</b></span>
-				<span class="span2"><b>吉</b></span>
-				<span class="span3"><b>凶</b></span>
-				<span class="span4"><b>大凶</b></span>
-			</div>
-		</div>
-		<button class="spin" onclick="myfunction()">转</button>
-	</div>
+  <div id="mainbox" class="mainbox">
+    <div id="box" class="box">
+      <div class="box1">
+        <span class="span1"><b>大吉</b></span>
+        <span class="span2"><b>小吉</b></span>
+        <span class="span3"><b>末吉</b></span>
+        <span class="span4"><b>半凶</b></span>
+      </div>
+      <div class="box2">
+        <span class="span1"><b>中吉</b></span>
+        <span class="span2"><b>吉</b></span>
+        <span class="span3"><b>凶</b></span>
+        <span class="span4"><b>大凶</b></span>
+      </div>
+    </div>
+    <button class="spin" onclick="myfunction()">转</button>
+  </div>
   <script src="js/spinning.js"></script>
 <!-- Spinning Wheel End-->
 

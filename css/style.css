@@ -523,3 +523,10 @@ canvas {
     right: -40px;
   }
 }
+
+
+/*======================  Disqus Section ==================*/
+.disqus {
+  margin-left: 200px; /* Adjust as needed */
+  margin-right: 200px; /* Adjust as needed */
+}
