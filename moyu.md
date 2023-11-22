@@ -51,13 +51,13 @@ layout: sub
 <!-- Redpanda End-->
 
 <!-- Spinning Wheel Start-->
-<div class="container-fluid py-5" id="testimonial">
+<!-- <div class="container-fluid py-5" id="testimonial">
     <div class="container">
         <div class="position-relative d-flex align-items-center justify-content-center">
             <h1 class="position-absolute text-uppercase text-primary">看看今天运势吧</h1>
         </div>
     </div>
-</div>
+</div> -->
 <!--
 <div class="wheelbody">
   <h1><center></center>
@@ -79,11 +79,12 @@ layout: sub
     <button class="spin" onclick="myfunction()">转</button>
   </div>
   <script src="js/spinning.js"></script> -->
-<div class="my-blog-container">
+
+<!-- <div class="my-blog-container">
     <body>
         <iframe src="https://woodylinwc.github.io/Spinning-Wheel/" width="600" height="400" frameborder="0"></iframe>
     </body>
-</div>
+</div> -->
 <!-- Spinning Wheel End-->
 
 <!-- Countdown Start-->
