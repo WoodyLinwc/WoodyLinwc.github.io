@@ -50,6 +50,24 @@ layout: sub
 <br/>
 <!-- Redpanda End-->
 
+
+
+<!-- Kpop Start-->
+<div class="container-fluid py-5" id="testimonial">
+    <div class="container">
+        <div class="position-relative d-flex align-items-center justify-content-center">
+            <h1 class="position-absolute text-uppercase text-primary">或者(G)I-DLE</h1>
+        </div>
+    </div>
+</div>
+<img id="randomKpop" onclick="loadRandomImage()" class="img-scale-down" src="" alt="Kpop Image" style="cursor: pointer; max-width: 80vw; max-height: 80vh; display: block; margin: 0 auto;"><br/>
+<button id="generate-button" onclick="loadRandomImage()" class="btn btn-outline-primary nav-item">目前有1000多张！</button>
+<script src="js/kpop.js"></script>
+<!-- Kpop End-->
+
+
+
+
 <!-- Spinning Wheel Start-->
 <!-- <div class="container-fluid py-5" id="testimonial">
     <div class="container">
