@@ -17,8 +17,8 @@ layout: sub
         </div>
         <div class="row pb-3">
             <div class="service-box col-lg-4 col-md-6 text-center mb-5">
-                <div class="d-flex align-items-center justify-content-center mb-4">
-                    <i class="fa fa-2x fa-computer service-icon bg-primary text-white mr-3"></i>
+                <div class="d-flex align-items-center justify-content-center mb-4 ">
+                    <i class="fa fa-3x fa-computer text-primary mt-2.5 mr-3"></i>
                     <h4 class="font-weight-bold m-0">Visual Studio Code</h4>
                 </div>
                 <p>Visual Studio Code is a lightweight but powerful code editor that is well-suited for many different types of development, including web development, data science, and game development.</p>
@@ -26,7 +26,7 @@ layout: sub
             </div>
             <div class="service-box col-lg-3 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center mb-4">
-                    <i class="fa fa-2x fa-bars-progress service-icon bg-primary text-white mr-3"></i>
+                    <i class="fa fa-3x fa-bars-progress text-primary mt-2.5 mr-3"></i>
                     <h4 class="font-weight-bold m-0">Homebrew</h4>
                 </div>
                 <p>Homebrew is a package manager for macOS that makes it easy to install and manage open-source software.</p>
@@ -34,7 +34,7 @@ layout: sub
             </div>
             <div class="service-box col-lg-4 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center mb-4">
-                    <i class="fab fa-2x fa-microsoft service-icon bg-primary text-white mr-3"></i>
+                    <i class="fab fa-3x fa-microsoft text-primary mt-2.5 mr-3"></i>
                     <h4 class="font-weight-bold m-0">Microsoft Office</h4>
                 </div>
                 <p>Microsoft Office is a suite of productivity software developed by Microsoft. It includes a variety of applications, such as Word, Excel, PowerPoint, and Outlook, that are widely used for tasks such as word processing, data analysis, presentations, and email management.</p>
@@ -42,7 +42,7 @@ layout: sub
             </div>
             <div class="service-box col-lg-4 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center mb-4">
-                    <i class="fa fa-2x fa-calculator service-icon bg-primary text-white mr-3"></i>
+                    <i class="fa fa-2x fa-calculator text-primary mt-2.5 mr-3"></i>
                     <h4 class="font-weight-bold m-0">WolframAlpha</h4>
                 </div>
                 <p>Wolfram Alpha is a computational knowledge engine developed by Wolfram Research. It is designed to provide answers to questions and calculations in a wide range of fields including mathematics, science, engineering, and technology.</p>
@@ -50,7 +50,7 @@ layout: sub
             </div>
             <div class="service-box col-lg-3 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center mb-4">
-                    <i class="fa fa-2x fa-microchip service-icon bg-primary text-white mr-3"></i>
+                    <i class="fa fa-3x fa-microchip text-primary mt-2.5 mr-3"></i>
                     <h4 class="font-weight-bold m-0">ChatGPT</h4>
                 </div>
                 <p>ChatGPT is a large language generation model developed by OpenAI. It uses deep learning techniques to generate human-like text based on the input it receives. </p>
@@ -58,7 +58,7 @@ layout: sub
             </div>
             <div class="service-box col-lg-4  col-md-7 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center mb-4">
-                    <i class="fa fa-2x fa-file-zipper service-icon bg-primary text-white mr-3"></i>
+                    <i class="fa fa-3x fa-file-zipper text-primary mt-2.5 mr-3"></i>
                     <h4 class="font-weight-bold m-0">7-Zip</h4>
                 </div>
                 <p>7-Zip is a free and open-source file archiver software for Windows, Linux, and other operating systems. It supports various archive formats including 7z, ZIP, RAR, and TAR. </p>
@@ -66,7 +66,7 @@ layout: sub
             </div>
             <div class="service-box col-lg-4  col-md-7 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center mb-4">
-                    <i class="fa fa-2x fa-box-open service-icon bg-primary text-white mr-3"></i>
+                    <i class="fa fa-3x fa-box-open text-primary mt-2.5 mr-3"></i>
                     <h4 class="font-weight-bold m-0">Dropbox</h4>
                 </div>
                 <p>Dropbox is a cloud-based file storage and sharing platform that allows users to store, share, and access files from anywhere with an internet connection. It allows users to create and organize folders, and share them with others. </p>
@@ -74,7 +74,7 @@ layout: sub
             </div>
             <div class="service-box col-lg-3 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center mb-4">
-                    <i class="fa fa-2x fa-desktop service-icon bg-primary text-white mr-3"></i>
+                    <i class="fa fa-3x fa-desktop text-primary mt-2.5 mr-3"></i>
                     <h4 class="font-weight-bold m-0">GitHub Desktop</h4>
                 </div>
                 <p>GitHub Desktop is a free and open-source Git client developed by GitHub. It is designed to simplify the process of working with Git and GitHub. </p>
@@ -82,7 +82,7 @@ layout: sub
             </div>
             <div class="service-box col-lg-4  col-md-7 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center mb-4">
-                    <i class="fa fa-2x fa-spell-check service-icon bg-primary text-white mr-3"></i>
+                    <i class="fa fa-3x fa-spell-check text-primary mt-2.5 mr-3"></i>
                     <h4 class="font-weight-bold m-0">Grammarly</h4>
                 </div>
                 <p>Grammarly is an AI-powered writing assistant that helps users to improve their grammar, punctuation, and spelling. It can detect and correct over 250 types of grammatical errors, and provide suggestions for word choice, tone, and style.</p>
@@ -90,7 +90,7 @@ layout: sub
             </div>
             <div class="service-box col-lg-4  col-md-7 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center mb-4">
-                    <i class="fa fa-2x fa-blog service-icon bg-primary text-white mr-3"></i>
+                    <i class="fa fa-3x fa-blog text-primary mt-2.5 mr-3"></i>
                     <h4 class="font-weight-bold m-0">Blogger</h4>
                 </div>
                 <p>Blogger is a free web-based platform that allows users to create and publish blogs. It allows users to write and publish blog posts, customize the look and feel of their blog, and interact with readers through comments.</p>
