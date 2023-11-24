@@ -42,7 +42,7 @@ layout: sub
             </div>
             <div class="service-box col-lg-4 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center mb-4">
-                    <i class="fa fa-2x fa-calculator text-primary mt-2.5 mr-3"></i>
+                    <i class="fa fa-3x fa-calculator text-primary mt-2.5 mr-3"></i>
                     <h4 class="font-weight-bold m-0">WolframAlpha</h4>
                 </div>
                 <p>Wolfram Alpha is a computational knowledge engine developed by Wolfram Research. It is designed to provide answers to questions and calculations in a wide range of fields including mathematics, science, engineering, and technology.</p>
