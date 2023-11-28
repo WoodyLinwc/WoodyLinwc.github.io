@@ -51,7 +51,7 @@ layout: default
                     <!-- <div class="col-sm-6 py-2"><h6>Education: <span class="text-secondary">Bachelor in Computer Science</span></h6></div> -->
                     <div class="col-sm-6 py-2"><h6>Location: <span class="text-secondary">Boston, MA</span></h6></div>
                     <div class="col-sm-6 py-2"><h6>Email: <span class="text-secondary">wancheng.lin001@gmail.com</span></h6></div>
-                    <div class="col-sm-6 py-2"><h6>GPA: <span class="text-secondary">3.7 Dean's List</span></h6></div>
+                    <div class="col-sm-6 py-2"><h6>GPA: <span class="text-secondary">3.72 Dean's List</span></h6></div>
                     <div class="col-sm-12 py-2"><h6>Education: <span class="text-secondary">
                         <br />■ Bachelor degree in Computer Science, minor in Mathematics
                         <br />■ University of Massachusetts Boston, 2019 - 2023</span></h6></div>
