@@ -2,10 +2,9 @@
 
 [My personal website](https://woodylinwc.github.io/)
 
-1. A photo album section
-2. Chat section for improved my website (if not host via github)
-3. A Moyu section: Red panda meme, my twitter post, random interesting daily idea
-4. A blog section
+1. A **Project & Experience** section where I put my latest project and recent experience.
+2. A **Productivity** section where I put some useful tools.
+3. A **Photography** section where I show my photos.
 5. Useful tools: VS code, WolframAlpha, chatGPT, Homebrew, Microsoft Office, 7-Zip, Github Desktop, Discord, Grammarly, Dropbox
 6. Game downloadable file
 7. relevant projects for example outputting huffman tree
