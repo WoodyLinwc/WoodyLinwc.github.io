@@ -173,6 +173,23 @@ layout: default
                 <div class="border-left border-primary pt-2 pl-4 ml-2">
                     <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -35px; font-size: 22px;"></i>
+                        <h5 class="font-weight-bold mb-1">Full-Stack Kpop Review Platform</h5>
+                        <p class="mb-2"><strong>Full-Stack Project</strong> | <small>Oct 2023 - Dec 2023</small></p>
+                        <p>
+                            <a href="https://github.com/WoodyLinwc/kpop.rating.springboot" target="_blank">Spring Boot, ReactJS, MongoDB</a>
+                            <br />
+                            ■ Implemented the back end using Spring Boot, ensuring streamlined communication with MongoDB.
+                            <br />
+                            ■ Crafted an engaging user interface with ReactJS on the front end, enabling users to explore, rate, and review their favorite K‑pop tracks.
+                            <br />
+                            ■ Enriched server‑side functionalities with Node.js, contributing to a responsive and dynamic user experience.
+                            <br />
+                            ■ Technologies used in the project: <b>Spring Boot</b>, <b>ReactJS</b>, <b>MongoDB</b>, <b>Node.js</b>, <b>Maven</b>.
+                            <br />
+                        </p>
+                    </div>
+                    <div class="position-relative ex-me mb-4">
+                        <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -35px; font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">LE-V-EL</h5>
                         <p class="mb-2"><strong>CS410 Software Engineering</strong> | <small>Feb 2023 - May 2023</small></p>
                         <p>
@@ -220,7 +237,7 @@ layout: default
                             <br />
                         </p>
                     </div>
-                    <div class="position-relative ex-me mb-4">
+                    <!-- <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -35px;  font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">Infection and Vaccination Research</h5>
                         <p class="mb-2"><strong>Math345 Probability and Statics</strong> | <small>Nov 2021 - Dec 2021</small></p>
@@ -234,7 +251,7 @@ layout: default
                             ■ Demonstrated strong communication, teamwork, and analytical skills, contributing to the project's success.
                             <br />
                         </p>
-                    </div>
+                    </div> -->
                     <!-- <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -35px;  font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">Web Game Project</h5>
