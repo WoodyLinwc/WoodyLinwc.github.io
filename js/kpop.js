@@ -1,7 +1,7 @@
 const baseUrl = 'https://woodylinwc.github.io/Image-Storage/GIDLE/';
     
     // Number of images in the directory
-    const numberOfImages = 1260; // Change this to the actual number of images
+    const numberOfImages = 1414; // Change this to the actual number of images
     
     // Function to load a random image
     function loadRandomImage() {
