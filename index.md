@@ -35,7 +35,7 @@ layout: default
         </div>
         <div class="row align-items-center">
             <div class="col-lg-5 pb-4 pb-lg-0">
-                <img class="img-fluid rounded w-100" src="img/me/me.png" alt="">
+                <img class="img-fluid rounded w-100" src="img/me/me.jpg" alt="">
             </div>
             <div class="col-lg-7">
                 <h3 class="mb-4">A passionate computer science student</h3>
@@ -228,7 +228,7 @@ layout: default
                             <br />
                         </p>
                     </div>
-                    <div class="position-relative ex-me mb-4">
+                    <!-- <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -35px;  font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">2D Game Project</h5>
                         <p class="mb-2"><strong>Extracurricular</strong> | <small>May 2022 - Aug 2022</small></p>
@@ -242,7 +242,7 @@ layout: default
                             ■ Debugged and tested the game, ensuring a smooth and enjoyable gamer experience.
                             <br />
                         </p>
-                    </div>
+                    </div> -->
                     <!-- <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -35px;  font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">Infection and Vaccination Research</h5>
