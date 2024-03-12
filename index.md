@@ -178,13 +178,17 @@ layout: default
                         <p>
                             <a href="https://github.com/WoodyLinwc/kpop.rating.springboot" target="_blank">Spring Boot, ReactJS, MongoDB</a>
                             <br />
-                            ■ Implemented the back end using Spring Boot, ensuring streamlined communication with MongoDB.
+                            ■ Crafted a song review application utilizing <b>Spring Boot</b> as the back end and <b>ReactJS</b> as the front end.
                             <br />
-                            ■ Crafted an engaging user interface with ReactJS on the front end, enabling users to explore, rate, and review their favorite K‑pop tracks.
+                            ■ Utilized <b>Axios</b> to fetch K-pop songs and review data from the back-end API in Spring Boot.
                             <br />
-                            ■ Enriched server‑side functionalities with Node.js, contributing to a responsive and dynamic user experience.
+                            ■ Implemented a <b>RESTful API</b> with endpoints to facilitate <b>CRUD</b> operations on K-pop contents.
                             <br />
-                            ■ Technologies used in the project: <b>Spring Boot</b>, <b>ReactJS</b>, <b>MongoDB</b>, <b>Node.js</b>, <b>Maven</b>.
+                            ■ Leveraged <b>MongoTemplate</b> to perform more complex <b>MongoDB</b> interactions, such as updating associated K-pop content documents with review IDs when a new review is created.
+                            <br />
+                            ■ Employed <b>Lombok</b> to generate boilerplate code, reducing verbosity in both ”Kpop” and ”Review” classes.
+                            <br />
+                            ■ Applied dependency injection with <b>@Autowired</b> annotations, automatically injecting instances into the ”ReviewService” class when it’s initialized.
                             <br />
                         </p>
                     </div>
@@ -195,13 +199,15 @@ layout: default
                         <p>
                             <a href="https://github.com/WoodyLinwc/LEVEL" target="_blank">LE-V-EL: Visualization Benchmarks for Machines</a>
                             <br />
-                            ■ Provided a platform that allows researchers to test their machine graphical perception algorithms on benchmark datasets.
+                            ■ Designed a dynamic website showcasing rankings of machine graphical perception algorithms on benchmark datasets using <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and <b>Jekyll</b>.
                             <br />
-                            ■ Evaluated the datasets remotely in the server once the pull request was accepted and updated the leaderboard on the website accordingly.
+                            ■ Managed <b>Python</b> files using <b>Miniconda</b> to ensure smooth execution and mitigate conflicts on the server side.
                             <br />
-                            ■ Standardized datasets that cover the graphical perception tasks.
+                            ■ Leveraged <b>GitHub Workflow</b> to automate project processes directly within the GitHub repository.
                             <br />
-                            ■ Technologies used in the project: <b>Python</b>, <b>JavaScript</b>, <b>Miniconda</b>, <b>GitHub Workflow</b>, <b>Jekyll</b>.
+                            ■ Implemented a robust lock mechanism based on <b>YAML</b> configuration file on the school server; prevented the risk of infinite loops and streamlined workflow efficiency during GitHub Action execution.
+                            <br />
+                            ■ Standardized the datasets and improved calculation speed by <b>40%</b> on the school’s server by employing <b>scikit-learn (sklearn)</b>, <b>numpy</b>, and <b>nltk</b> for efficient data preprocessing and analysis tasks.
                             <br />
                         </p>
                     </div>
@@ -212,13 +218,13 @@ layout: default
                         <p>
                             <a href="https://github.com/WoodyLinwc/Auto-Twitter-Bot" target="_blank">Automated Twitter Bot with Image Posting</a>
                             <br />
-                            ■ Developed an automated Twitter bot using the <b>Twitter API</b>, <b>Node.js</b>, <b>PM2</b>, and an <b>AWS EC2 instance</b>.
+                            ■ Developed a Twitter bot based on <b>AWS EC2</b> instance to select and upload pictures from a designated database once <b>every 6</b> hours (still operational remotely).
                             <br />
-                            ■ Leveraged PM2 for process management, ensuring the bot runs continuously and automatically restarts in case of failures. 
+                            ■ Implemented a time-based <b>CronJob</b> to acquire the necessary components by <b>Node.js</b>; integrated the <b>Twitter API</b> for automated tweeting, optimizing efficiency with <b>async/await</b> for handling asynchronous tasks.
                             <br />
-                            ■ Utilized an AWS EC2 instance to host the bot, ensuring reliable and scalable deployment.
+                            ■ Leveraged <b>PM2</b> for real-time monitoring management of the Twitter bot, ensuring consistent performance.
                             <br />
-                            ■ Configured the bot to retrieve and upload images from a designated directory, providing a seamless posting experience.
+                            ■ Published over <b>1,000</b> tweets to date and constantly gained followers.
                             <br />
                         </p>
                     </div>
