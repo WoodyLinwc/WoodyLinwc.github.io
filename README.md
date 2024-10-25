@@ -14,4 +14,8 @@
 find all my icon here in https://fontawesome.com/search
 color https://www.colorhexa.com/d6e7f5
 
+
+Using Jekyll with Bundler: https://jekyllrb.com/tutorials/using-jekyll-with-bundler/
+bundle exec jekyll serve
+
 Credit: https://www.youtube.com/playlist?list=PLPxLupE_uLC0PwJywgv3SXurdAzbtF6RC
