@@ -10,9 +10,9 @@ layout: default
                 <h3 class="text-white font-weight-normal mb-3">Hello, my name</h3>
                 <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 4px #ffffff;">Woody Lin</h1>
                 <h1 class="typed-text-output d-inline font-weight-lighter text-white"></h1>
-                <div class="typed-text d-none">College Student, Computer Science, Game Developer, Web Designer, Photographer, 林万程</div>
+                <div class="typed-text d-none">Software Engineer, Android App Developer, Game Developer, Photographer, 林万程</div>
                 <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
-                    <a href="mailto:wancheng.lin001@gmail.com" class="btn btn-white mr-4">Email Me</a>                        
+                    <a href="mailto:lin.wancheng001@gmail.com" class="btn btn-white mr-4">Email Me</a>                        
                     <a href="https://www.linkedin.com/in/woody-lin-32ab48161/" class="btn btn-blue d-none d-sm-block mr-2">LinkedIn</a>
                     <a href="https://github.com/WoodyLinwc" class="btn btn-blue d-none d-sm-block">GitHub</a>
                 </div>
@@ -38,24 +38,24 @@ layout: default
                 <img class="img-fluid rounded w-100" src="img/me/me.jpg" alt="">
             </div>
             <div class="col-lg-7">
-                <h3 class="mb-4">A passionate computer science student</h3>
+                <h3 class="mb-4">A Passionate Software Developer</h3>
                 <p>
-                    As a computer science student pursuing a bachelor's degree, 
-                    I am eager to apply my knowledge and skills to real-world projects and challenges. 
-                    My passion for technology and problem-solving drives me to stay up-to-date with the 
-                    latest developments in the field, and I am always eager to learn more.
+                    As a recent Computer Science graduate from UMass Boston and an active software developer, I combine technical expertise with a drive for innovation. My experience spans mobile app development and full-stack web solutions, where I've successfully delivered projects using React Native, TypeScript, and cloud technologies. With an AWS Cloud Practitioner certification and a strong foundation in computer science, I continuously embrace new challenges and technologies to create impactful solutions. My passion for clean code and problem-solving drives me to stay at the forefront of technological advancement.
                 </p>
                 <div class="row mb-3">
                     <div class="col-sm-6 py-2"><h6>Name: <span class="text-secondary">Woody Lin</span></h6></div>
                     <!-- <div class="col-sm-6 py-2"><h6>Birthday: <span class="text-secondary">1 April 1990</span></h6></div> -->
                     <!-- <div class="col-sm-6 py-2"><h6>Education: <span class="text-secondary">Bachelor in Computer Science</span></h6></div> -->
                     <div class="col-sm-6 py-2"><h6>Location: <span class="text-secondary">Boston, MA</span></h6></div>
-                    <div class="col-sm-6 py-2"><h6>Email: <span class="text-secondary">wancheng.lin001@gmail.com</span></h6></div>
+                    <div class="col-sm-6 py-2"><h6>Email: <span class="text-secondary">lin.wancheng001@gmail.com</span></h6></div>
                     <div class="col-sm-6 py-2"><h6>GPA: <span class="text-secondary">3.72 Dean's List</span></h6></div>
                     <div class="col-sm-12 py-2"><h6>Education: <span class="text-secondary">
                         <br />■ Bachelor degree in Computer Science, minor in Mathematics
                         <br />■ University of Massachusetts Boston, 2019 - 2023</span></h6></div>
-                    <div class="col-sm-12 py-10"><h6>Relevant Coursework: <span class="text-secondary">
+                    <div class="col-sm-12 py-2"><h6>Languages: <span class="text-secondary">Java, Python, JavaScript, TypeScript, SQL, HTML & CSS, C/C++, Bash</span></h6></div>
+                    <div class="col-sm-12 py-2"><h6>Frameworks: <span class="text-secondary">ReactJS, React Native, NestJS, Next.js, Spring Boot, Tailwind CSS, Jekyll</span></h6></div>
+                    <div class="col-sm-12 py-2"><h6>Relevant Tools: <span class="text-secondary">MongoDB, Git, AWS, Node.js, Miniconda, PostgreSQL, Prisma ORM, Redis, Docker, Jira</span></h6></div>
+                    <!-- <div class="col-sm-12 py-10"><h6>Relevant Coursework: <span class="text-secondary">
                         <br />■ CS410 Software Engineering
                         <br />■ CS430 Database Management 
                         <br />■ CS450 The Structure of Higher Level Languages
@@ -63,7 +63,7 @@ layout: default
                         <br />■ CS310 Data Structures and Algorithms
                         <br />■ CS420 An Introduction to the Theory of Computation
                         <br />■ CS444 Operating System
-                    </span></h6></div>
+                    </span></h6></div> -->
                     <div class="col-sm-12 py-3"><h6>Technical Skills: <span class="text-secondary">
                         <br />■ Object-oriented programming
                         <br />■ Data Structures and Algorithms
@@ -72,7 +72,6 @@ layout: default
                         <br />■ Scripting and Automation
                         <br />■ Data Management
                     </span></h6></div>
-                    <div class="col-sm-12 py-2"><h6>Languages: <span class="text-secondary">Java, SQL, Python, JavaScript, C, Racket, HTML, CSS</span></h6></div>
                     <!-- <div class="col-sm-6 py-2"><h6>Freelance: <span class="text-secondary">Available</span></h6></div> -->   
                 </div>
                 <a href="https://woodylinwc.github.io/pdf/WoodyLinResume.pdf" target="_blank" class="btn btn-outline-primary nav-item">My Most Recent Resume</a>
@@ -224,11 +223,11 @@ layout: default
                             <br />
                             ■ Leveraged <b>PM2</b> for real-time monitoring management of the Twitter bot, ensuring consistent performance.
                             <br />
-                            ■ Published over <b>1,000</b> tweets to date and constantly gained followers.
+                            ■ Published over <b>2,000</b> tweets to date and constantly gained followers.
                             <br />
                         </p>
                     </div>
-                    <!-- <div class="position-relative ex-me mb-4">
+                    <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -35px;  font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">2D Game Project</h5>
                         <p class="mb-2"><strong>Extracurricular</strong> | <small>May 2022 - Aug 2022</small></p>
@@ -242,7 +241,7 @@ layout: default
                             ■ Debugged and tested the game, ensuring a smooth and enjoyable gamer experience.
                             <br />
                         </p>
-                    </div> -->
+                    </div>
                     <!-- <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -35px;  font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">Infection and Vaccination Research</h5>
@@ -278,6 +277,37 @@ layout: default
             <div class="col-lg-6">
                 <h3 class="mb-4">My Experience</h3>
                 <div class="border-left border-primary pt-2 pl-4 ml-2">
+                     <div class="position-relative ex-me mb-4">
+                        <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
+                        <h5 class="font-weight-bold mb-1">Android Mobile Application Developer</h5>
+                        <p class="mb-2"><strong>React Native Apps Community</strong> | <small>Sep 2024 - Current</small></p>
+                        <p>
+                            <a href="https://play.google.com/store/apps/details?id=com.woodylinwc.FlashcardApp" target="_blank">Google Play Store</a> |
+                            <a href="https://github.com/WoodyLinwc/Flashcard-Expo-V2" target="_blank">GitHub</a>
+                            <br />
+                            ■ Developed and published a mobile flashcard application to <b>Google Play</b> Store using <b>TypeScript</b> and <b>React Native</b>, showcasing the ability to manage the full app lifecycle from concept to production release.
+                            <br />
+                            ■ Designed a comprehensive system for users to <b>create</b> new flashcards and decks, <b>edit</b> existing contents, and <b>delete</b> unnecessary items, providing full control over study materials.
+                            <br />
+                            ■ Utilized <b>SQLite</b> database for efficient local data management, enabling offline access and ensuring user data persistence across app sessions.
+                            <br />
+                            ■ Implemented smooth card flipping animations and swipe gestures using React Native’s <b>Animated API</b>, enhancing the app’s interactivity and user engagement.
+                        </p>
+                    </div>
+                    <div class="position-relative ex-me mb-4">
+                        <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
+                        <h5 class="font-weight-bold mb-1">Software Engineering Intern</h5>
+                        <p class="mb-2"><strong>Twygs.io</strong> | <small>Jun 2024 - Oct 2024</small></p>
+                        <p>
+                            ■ Utilized <b>TypeScript</b>, <b>Node.js</b>, <b>React</b>, and <b>Next.js</b> to develop and maintain web application interfaces, and refined the authentication UI designs with <b>Tailwind CSS</b>.
+                            <br />
+                            ■ Enhanced the <b>One-Time Password (OTP)</b> input system by implementing automatic tabbing between adjacent inputs upon entering a number, streamlining the email verification process.
+                            <br />
+                            ■ Implemented feature to make last name input optional for <b>Creator/Advertiser</b> account creation, increasing sign-up flexibility. Modified both backend constraints and frontend validation to support this change.
+                            <br />
+                            ■ Adopted <b>PostgreSQL</b> for local database management, including account creation after the email authentication process and data manipulation for testing purposes.
+                        </p>
+                    </div>
                     <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">Teaching Assistant</h5>
@@ -312,7 +342,7 @@ layout: default
                             ■ Integrated <b>Google Domains</b> to host the website.
                         </p>
                     </div>
-                    <div class="position-relative ex-me mb-4">
+                    <!-- <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">CS Project Team Leader</h5>
                         <p class="mb-2"><strong>CS410 Software Engineering</strong> | <small>Feb 2023 - May 2023</small></p>
@@ -326,8 +356,8 @@ layout: default
                             ■ Presented the project in front of clients and received an A at the end of the semester.
                             <br />
                         </p>
-                    </div>
-                    <div class="position-relative ex-me mb-4">
+                    </div> -->
+                    <!-- <div class="position-relative ex-me mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
                         <h5 class="font-weight-bold mb-1">Math Tutor</h5>
                         <p class="mb-2"><strong>Part-time job</strong> | <small>Jan 2021 - Present</small></p>
@@ -339,7 +369,7 @@ layout: default
                             ■ Maintained regular communication with parents and students, providing progress updates and addressing concerns as needed.
                             <br />
                         </p>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
